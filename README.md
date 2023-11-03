@@ -2,4 +2,5 @@
 
 ## gravando
 
-* uso comando git push
+* comando git push
+* comando git pull
